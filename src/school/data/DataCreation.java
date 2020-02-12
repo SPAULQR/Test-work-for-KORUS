@@ -1,8 +1,5 @@
 package school.data;
 
-import school.data.Member;
-import school.data.MembersGroup;
-
 import java.util.ArrayList;
 import java.util.List;
 
